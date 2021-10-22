@@ -1,7 +1,7 @@
 #YAML
 
 university:
-    faculty: [law, economics, technical]
+    faculty: [law, economics]
     law:
        - national
        - international
